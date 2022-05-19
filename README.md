@@ -1,4 +1,4 @@
-<img align="left" src="wv.png" width = "60px">
+<img align="left" src="wv.png" width = "100px">
 
 
 ### Hey!

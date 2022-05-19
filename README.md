@@ -1,16 +1,15 @@
-<img align="left" src="wv4.png" width = "100px">
+<img align="left" src="wv4.png" width = "85px">
 
 
 ### Hey!
 
+I'm someone who's passionate about computational engineering, especially for naval, offshore and coastal applications.
+
 <br>
 
-### About:
-- Undergraduate student at the Indian Institute of Technology, Madras
-- Majoring in Naval Architecture and Ocean Engineering
-- Minoring in Computational Hydrodyanmics
+Currently, I'm an undergraduate student at the Indian Institute of Technology, Madras. I'm majoring in Naval Architecture and Ocean Engineering and minoring in Computational Hydrodyanmics.
 
-### Interests:
+My interests consist of:
 - dkd
 - jdkkd
 - dkkd

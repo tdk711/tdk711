@@ -1,4 +1,4 @@
-<img align="left" src="https://www.pngfind.com/pngs/m/234-2341483_japanese-wave-background-great-wave-off-kanagawa-cats.png" width = "30px">
+<img align="left" src="wv.png" width = "30px">
 
 ### Hey!
 

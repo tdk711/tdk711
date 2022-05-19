@@ -1,5 +1,4 @@
-<img align="left" src="wv4.png" width = "85px">
-
+<img align="left" src="wv4.png" width = "80px">
 
 ### Hey!
 
@@ -7,7 +6,7 @@ I'm someone who's passionate about computational engineering, especially for nav
 
 <br>
 
-Currently, I'm an undergraduate student at the Indian Institute of Technology, Madras. I'm majoring in Naval Architecture and Ocean Engineering and minoring in Computational Hydrodyanmics.
+Currently, I'm an undergraduate student at the Indian Institute of Technology, Madras. I'm majoring in Naval Architecture and Ocean Engineering and my minor is Computational Hydrodyanmics.
 
 My interests consist of:
 - dkd

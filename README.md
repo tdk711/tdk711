@@ -20,5 +20,5 @@ Check out some of my projects below:
 - [Wave Analysis Toolbox](https://github.com/tdk711/Wave-Analysis-Toolbox) - Analyses an sea surface elevation time series to obtain various statistical parameters
 - [3D Parallel Poisson Solver]() - Finite-Difference 3D Cartesian Poisson's Equation Solver parallelized using MPI
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/dilipkumar711/), [Twitter](twitter.com/tdk_711) or [email](mailto: dilipkumar@smail.iitm.ac.in)
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/dilipkumar711/), [Twitter](twitter.com/tdk_711) or [email](dilipkumar@smail.iitm.ac.in)
 
